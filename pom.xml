@@ -9,6 +9,16 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+    <developers>
+        <developer>
+            <id>alan</id>
+            <name>Alan Skaev</name>
+            <email>jdoe@example.com</email>
+            <url>https://www.linkedin.com/in/alan-s-961284a7/</url>
+            <timezone>America/New_York</timezone>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
